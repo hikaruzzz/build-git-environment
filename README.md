@@ -42,6 +42,8 @@ run `git push -u origin master`
 * run `git add .`
 * run `git commit -m "test commit"`
 * run `git push -u origin master`
-
+## 5 Normal operate
 * to add new repository  
 run `git remote add origin http://github.com/hikaruzzz/myRepository/xxx.git`
+* change file and commit
+* push to server
