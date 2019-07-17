@@ -35,4 +35,13 @@ run `git commit -m "my first commit"`
 run `git remote add origin http://github.com/xxxxxxx/xxxx.git`  
 run `git push -u origin master`   
 
+## 4 How to use git daily
+* go to clone git folder
+* run `Git Bash` in that folder(right-click)
+* change file
+* run `git add .`
+* run `git commit -m "test commit"`
+* run `git push -u origin master`
 
+* to add new repository  
+run `git remote add origin http://github.com/hikaruzzz/myRepository/xxx.git`
