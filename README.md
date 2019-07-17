@@ -42,8 +42,11 @@ run `git push -u origin master`
 * run `git add .`
 * run `git commit -m "test commit"`
 * run `git push -u origin master`
-## 5 Normal operate
+## 5 Normal operate(push to server)
 * to add new repository  
 run `git remote add origin http://github.com/hikaruzzz/myRepository/xxx.git`
 * change file and commit
 * push to server
+## 6 Normal operate(pull from server to local)
+* go to local folder  
+* run `git pull https://github.com/hikaruzzz/deepNet-classification-pytorch-cifar10`
