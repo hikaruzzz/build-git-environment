@@ -21,7 +21,8 @@ open the file id_rsa_pub,and copy the message to SSH keys，the title could be c
 * test the connection
 run `ssh -T git@github.com`
 * clone git to local folder
-go to local folder need to be saved repository, and right-click, click `Git Bash`  
+go to local folder need to be saved repository  
+and right-click, click `Git Bash`  
 run `git clone http://github.com/xxxxxxxxxxxxxxxx/xxx.git`
 * initial new repository   
 go to clone git floder    
