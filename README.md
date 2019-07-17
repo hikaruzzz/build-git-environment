@@ -17,7 +17,7 @@ run in git bash `ssh-add ~/.ssh/id_rsa`
 * add public key to github  
 [go to github setting]("https://github.com/settings/keys")  
 open the file id_rsa_pub,and copy the message to SSH keys，the title could be custom.
-## Repository create
+## 3 Repository create
 * test the connection
 run `ssh -T git@github.com`
 * clone git to local folder
